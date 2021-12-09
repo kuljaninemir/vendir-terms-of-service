@@ -1,4 +1,4 @@
-## Champions of Avan - Terms of Service
+## Vendir: Plague of Lies - Terms of Service
 
 # Terms of Service
 
@@ -6,7 +6,7 @@ Effective as of: December 16th, 2020.
 
 1. Acceptance of the Terms of Service
 
-(1) These Terms of Service are entered into by and between You or your business entity ( **&quot;** You **&quot;** ) and Early Morning Studio AB (&quot;Company&quot; or &quot;we&quot;). The following terms and conditions (these &quot;Terms of Service&quot;), govern your access to and use of the game &quot;Champions of Avan&quot;, including any content, functionality and services offered on or through our service (the &quot;Service&quot;).
+(1) These Terms of Service are entered into by and between You or your business entity ( **&quot;** You **&quot;** ) and Early Morning Studio AB (&quot;Company&quot; or &quot;we&quot;). The following terms and conditions (these &quot;Terms of Service&quot;), govern your access to and use of the game &quot;Vendir: Plague of Lies&quot;, including any content, functionality and services offered on or through our service (the &quot;Service&quot;).
 
 (2) Please read the Terms of Service carefully before you start to use the Service. **By starting using the Service or by clicking to accept or agree to the Terms of Service when this option is made available to you, you accept and agree to be bound and abide by these Terms of Service and our Privacy Policy, incorporated herein by reference.** If you do not want to agree to these Terms of Service or the Privacy Policy, do not subscribe, register or use this Service.
 
@@ -22,7 +22,7 @@ Effective as of: December 16th, 2020.
 
 3. Description of the Service
 
-(1) Early Morning Studio AB provides a game entitled &quot;Champions of Avan&quot;, which is made available on gaming platforms, such as Google Play (the &quot;Gaming Platform&quot;).
+(1) Early Morning Studio AB provides a game entitled &quot;endir: Plague of Lies&quot;, which is made available on gaming platforms, such as Google Play (the &quot;Gaming Platform&quot;).
 
 (2) You agree that certain features of the Service may be offered and operated by us in conjunction with other third party services providers, such as the gaming platforms. We therefore encourage you to also review such third party&#39;s terms and conditions, as they may also apply to your use of the Service.
 
