@@ -2,7 +2,7 @@
 
 # Terms of Service
 
-Effective as of: December 16th, 2020.
+Effective as of: October 16th, 2022.
 
 1. Acceptance of the Terms of Service
 
@@ -22,7 +22,7 @@ Effective as of: December 16th, 2020.
 
 3. Description of the Service
 
-(1) Early Morning Studio AB provides a game entitled &quot;endir: Plague of Lies&quot;, which is made available on gaming platforms, such as Google Play (the &quot;Gaming Platform&quot;).
+(1) Early Morning Studio AB provides a game entitled &quot;Vendir: Plague of Lies&quot;, which is made available on gaming platforms, such as Google Play (the &quot;Gaming Platform&quot;).
 
 (2) You agree that certain features of the Service may be offered and operated by us in conjunction with other third party services providers, such as the gaming platforms. We therefore encourage you to also review such third party&#39;s terms and conditions, as they may also apply to your use of the Service.
 
